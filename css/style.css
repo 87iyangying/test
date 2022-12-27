@@ -1,0 +1,48 @@
+* {   
+    box-sizing: border-box;
+    }
+     
+    /* Style the header */
+    .header {   
+    background-color:green;   
+    text-align: center;   
+    padding: 20px;
+    }
+   .topnav{
+        background-color:chocolate;
+        overflow: hidden;
+        
+     }
+     .topnav a{
+        color:aliceblue;
+        font-family: Arial, sans-serif;
+        font-size: 20;
+        text-decoration: none;
+        padding: 14px;
+        display: block;
+        float:left;
+     }
+
+.topnav a:hover{
+    color:gray;
+    background-color: black;
+}
+    
+.row {
+  display: flex;
+  flex-direction:row;
+  background-color: coral;
+  justify-content: space-around;
+}
+
+.column {
+    font-size: 16px;
+    color: aquamarine;
+    padding-left: 40px;
+    
+}
+.footer{
+    background-color: coral;
+    padding: 20px;
+     text-align: center;
+}

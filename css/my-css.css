@@ -1,0 +1,8 @@
+* {   
+    box-sizing: border-box;
+    }
+    .header {   
+        background-color:green;   
+        text-align: center;   
+        padding: 20px;
+        }
